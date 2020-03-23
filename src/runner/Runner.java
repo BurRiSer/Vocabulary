@@ -1,6 +1,7 @@
 package runner;
 
 import entity.Book;
+import vocabulary.Vocabulary;
 import vocabulary.VocabularyCreator;
 
 public class Runner {
